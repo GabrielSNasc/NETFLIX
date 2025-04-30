@@ -12,4 +12,4 @@
 <img height="500px"; src="https://github.com/GabrielSNasc/NETFLIX/blob/main/img/Projeto%20NETFLIX%20%20+info%202.png?raw=true" alt="foto-mais-informações" />
 <img height="500px"; src="https://github.com/GabrielSNasc/NETFLIX/blob/main/img/Projeto%20NETFLIX%20prin%20filme%20e%20series%203.png?raw=true" alt="foto-principais-filmes-e-séries" />
 <br>
-<a href="">Veja o Projeto</a>
+<a href="https://gabrielsnasc.github.io/NETFLIX/">Veja o Projeto</a>
