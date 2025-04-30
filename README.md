@@ -8,4 +8,8 @@
 <br>
 <br>
 <h3>Projeto:</h3>
-<img height="500px"; src="https://github.com/GabrielSNasc/NETFLIX/tree/main/img" alt=foto-do-projeto" />
+<img height="500px"; src="https://github.com/GabrielSNasc/NETFLIX/blob/main/img/Projeto%20NETFLIX%201.png?raw=true" alt="foto-do-projeto" />
+<img height="500px"; src="https://github.com/GabrielSNasc/NETFLIX/blob/main/img/Projeto%20NETFLIX%20%20+info%202.png?raw=true" alt="foto-mais-informações" />
+<img height="500px"; src="https://github.com/GabrielSNasc/NETFLIX/blob/main/img/Projeto%20NETFLIX%20prin%20filme%20e%20series%203.png?raw=true" alt="foto-principais-filmes-e-séries" />
+<br>
+<a href="">Veja o Projeto</a>
