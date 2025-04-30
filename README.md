@@ -8,4 +8,4 @@
 <br>
 <br>
 <h3>Projeto:</h3>
-<img>
+<img height="500px"; src="https://github.com/GabrielSNasc/NETFLIX/tree/main/img" alt=foto-do-projeto" />
